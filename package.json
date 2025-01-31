@@ -7,7 +7,22 @@
   "dependencies": {
     "body-parser": "^1.20.3",
     "dotenv": "^16.4.7",
-    "express": "^4.18.2",
-    "mongoose": "^8.8.3"
-  }
+    "express": "^4.21.2",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.9"
+  },
+  "version": "1.0.0",
+  "description": "### Scenario:",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billasur/Setting-up-a-DB-and-connecting-to-Express-server---Practice-assignment-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billasur/Setting-up-a-DB-and-connecting-to-Express-server---Practice-assignment-2/issues"
+  },
+  "homepage": "https://github.com/billasur/Setting-up-a-DB-and-connecting-to-Express-server---Practice-assignment-2#readme"
 }
